@@ -34,10 +34,9 @@ from Aerial Imagery|CVPR 2024|[Paper](https://arxiv.org/pdf/2403.11812)|[Project
 
 |  Abbr.  |  Title   | Venue  | Paper  | Project  | Github  | Condition| Backbone|
 |  ----  |  ----    | ----  |----   |----  |----  |----  | ----  |
-|Label Freedom|Stable Diffusion for Remote Sensing Image Generation|BigData 2023|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386381)|[Project]([https://github.com/xiaoyuan1996/Stable-Diffusion-for-Remote-Sensing-Image-Generation])|text|StableDiffusion|
+|Label Freedom|Stable Diffusion for Remote Sensing Image Generation|BigData 2023|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386381)|[Project]([https://github.com/xiaoyuan1996/Stable-Diffusion-for-Remote-Sensing-Image-Generation])|text|LoRA+StableDiffusion|
 |Seg2Sat| Segmentation to aerial view using pre-trained diffuser models| None| None| [Project](https://github.com/RubenGres/Seg2Sat)|semantic segmentation map|StableDiffusion+Controlnet|
-|DiffusionSat| DIFFUSIONSAT: A GENERATIVE FOUNDATION MODEL
-FOR SATELLITE IMAGERY|ICLR 2024| [Papaer](https://openreview.net/pdf?id=I5webNFDgQ)|[Project](https://github.com/samar-khanna/DiffusionSat)| ||
+|DiffusionSat| DIFFUSIONSAT: A GENERATIVE FOUNDATION MODELFOR SATELLITE IMAGERY|ICLR 2024| [Papaer](https://openreview.net/pdf?id=I5webNFDgQ)|[Project](https://github.com/samar-khanna/DiffusionSat)| text, position, etc + image|CLIP+StableDiffusion|
 
 <details open>
 <summary>
