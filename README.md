@@ -33,7 +33,7 @@ An expanding review of papers, codes and datasets w.r.t 3D city generation.
 
 |  Abbr.  |  Title   | Venue  | Paper  | Project  | Condition| Backbone|
 |  ----  |  ----    | ----  |----   |----  |----  |----  | 
-|Label Freedom|Stable Diffusion for Remote Sensing Image Generation|BigData 2023|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386381)|[Project]([https://github.com/xiaoyuan1996/Stable-Diffusion-for-Remote-Sensing-Image-Generation])|text|LoRA+StableDiffusion|
+|Label Freedom|Stable Diffusion for Remote Sensing Image Generation|BigData 2023|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386381)|[Project](https://github.com/xiaoyuan1996/Stable-Diffusion-for-Remote-Sensing-Image-Generation)|text|LoRA+StableDiffusion|
 |Seg2Sat| Segmentation to aerial view using pre-trained diffuser models| None| None| [Project](https://github.com/RubenGres/Seg2Sat)|semantic segmentation map|StableDiffusion+Controlnet|
 |DiffusionSat| DIFFUSIONSAT: A GENERATIVE FOUNDATION MODELFOR SATELLITE IMAGERY|ICLR 2024| [Papaer](https://openreview.net/pdf?id=I5webNFDgQ)|[Project](https://github.com/samar-khanna/DiffusionSat)| text, position, etc + image|CLIP+StableDiffusion|
 
