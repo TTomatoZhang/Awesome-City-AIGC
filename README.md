@@ -16,13 +16,12 @@ An expanding review of papers, codes and datasets w.r.t 3D city generation.
 
 |  Abbr.  |  Title   | Venue  | Paper  | Project  |Layout | 3D | Mesh|
 |  ----  |  ----    | ----  |----   |----  |----  |----  |----  |
-|InfiniCity |InfiniCity: Infinite-Scale City Synthesis|ICCV 2023|[[Paper](https://arxiv.org/abs/2408.01291)]| [Project](https://rese1f.github.io/CityGen/|InfiniGAN|Octree + Voxel + Neural Rendering|None|
-|CityGen |CityGen: Infinite and Controllable 3D City Layout Generation|preprint  |[Paper](https://arxiv.org/abs/2408.01291)| [[Project](https://rese1f.github.io/CityGen/)]|stablediffusion + LoRA (from local block to infinity)| Heightmap| None | 
-|CityDreamer |CityDreamer: Compositional Generative Model of Unbounded 3D Cities| CVPR 2024 |[[Paper]([https://arxiv.org/abs/2408.01291](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf))]| [Project](https://haozhexie.com/project/city-dreamer)|MaskGIT|generative neural hash grid|None|
-|SemCity |SemCity: Semantic Scene Generation with Triplane Diffusion| ECCV 2024 |[[Paper](https://arxiv.org/abs/2408.01291)]| [Project](https://dong-huo.github.io/TexGen/)|triplane+decoder|triplane+ diffusion|None|
+|InfiniCity |InfiniCity: Infinite-Scale City Synthesis|ICCV 2023|[Paper](https://arxiv.org/abs/2408.01291)| [Project](https://rese1f.github.io/CityGen/|InfiniGAN|Octree + Voxel + Neural Rendering|None|
+|CityGen |CityGen: Infinite and Controllable 3D City Layout Generation|preprint  |[Paper](https://arxiv.org/abs/2408.01291)| [Project](https://rese1f.github.io/CityGen/)|stablediffusion + LoRA (from local block to infinity)| Heightmap| None | 
+|CityDreamer |CityDreamer: Compositional Generative Model of Unbounded 3D Cities| CVPR 2024 |[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf)| [Project](https://haozhexie.com/project/city-dreamer)|MaskGIT|generative neural hash grid|None|
+|SemCity |SemCity: Semantic Scene Generation with Triplane Diffusion| ECCV 2024 |[Paper](https://arxiv.org/abs/2408.01291)| [Project](https://dong-huo.github.io/TexGen/)|triplane+decoder|triplane+ diffusion|None|
 |CityCraft |CityCraft: A Real Crafter for 3D City Generation| preprint|[Paper]([https://arxiv.org/abs/2408.0129](https://arxiv.org/pdf/2406.04983)1)| [Project](https://github.com/djFatNerd/CityCraft)|DiT with VAE from SDXL|Blender asset|Blender|
-|Aerial Lifing|Aerial Lifting: Neural Urban Semantic and Building Instance Lifting
-from Aerial Imagery|CVPR 2024|[Paper](https://arxiv.org/pdf/2403.11812)|[Project](https://github.com/zyqz97/Aerial_lifting)|M2F, SAM|NeRF|None|
+|Aerial Lifing|Aerial Lifting: Neural Urban Semantic and Building Instance Liftingfrom Aerial Imagery|CVPR 2024|[Paper](https://arxiv.org/pdf/2403.11812)|[Project](https://github.com/zyqz97/Aerial_lifting)|M2F, SAM|NeRF|None|
 
 <details open>
 <summary>
