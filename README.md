@@ -15,7 +15,7 @@ An expanding review of papers, codes and datasets w.r.t 3D city generation.
 </summary>
 
 |  Abbr.  |  Title   | Venue  | Paper  | Project  |Layout | 3D | Mesh|
-|  ----  |  ----    | ----  |----   |----  |----  |----  |----  |----  |
+|  ----  |  ----    | ----  |----   |----  |----  |----  |----  |
 |InfiniCity |InfiniCity: Infinite-Scale City Synthesis|ICCV 2023|[[Paper](https://arxiv.org/abs/2408.01291)]| [[Project]([https://rese1f.github.io/CityGen/]|InfiniGAN|Octree + Voxel + Neural Rendering|None|
 |CityGen |CityGen: Infinite and Controllable 3D City Layout Generation|preprint  |[[Paper](https://arxiv.org/abs/2408.01291)]| [[Project](https://rese1f.github.io/CityGen/)]|stablediffusion + LoRA (from local block to infinity)| Heightmap| None | 
 |CityDreamer |CityDreamer: Compositional Generative Model of Unbounded 3D Cities| CVPR 2024 |[[Paper]([https://arxiv.org/abs/2408.01291](https://openaccess.thecvf.com/content/CVPR2024/papers/Xie_CityDreamer_Compositional_Generative_Model_of_Unbounded_3D_Cities_CVPR_2024_paper.pdf))]| [[Project](https://haozhexie.com/project/city-dreamer)]|MaskGIT|generative neural hash grid|None|
@@ -33,7 +33,7 @@ from Aerial Imagery|CVPR 2024|[Paper](https://arxiv.org/pdf/2403.11812)|[Project
 </summary>
 
 |  Abbr.  |  Title   | Venue  | Paper  | Project  | Condition| Backbone|
-|  ----  |  ----    | ----  |----   |----  |----  |----  | ----  |
+|  ----  |  ----    | ----  |----   |----  |----  |----  | 
 |Label Freedom|Stable Diffusion for Remote Sensing Image Generation|BigData 2023|[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386381)|[Project]([https://github.com/xiaoyuan1996/Stable-Diffusion-for-Remote-Sensing-Image-Generation])|text|LoRA+StableDiffusion|
 |Seg2Sat| Segmentation to aerial view using pre-trained diffuser models| None| None| [Project](https://github.com/RubenGres/Seg2Sat)|semantic segmentation map|StableDiffusion+Controlnet|
 |DiffusionSat| DIFFUSIONSAT: A GENERATIVE FOUNDATION MODELFOR SATELLITE IMAGERY|ICLR 2024| [Papaer](https://openreview.net/pdf?id=I5webNFDgQ)|[Project](https://github.com/samar-khanna/DiffusionSat)| text, position, etc + image|CLIP+StableDiffusion|
