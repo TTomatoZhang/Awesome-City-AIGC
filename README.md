@@ -47,6 +47,9 @@ OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Drivi
 
 
 ## Road with Surface
+|  Abbr.  |  Title   | Venue  | Paper  | Project  | Condition| Backbone|
+|  ----  |  ----    | ----  |----   |----  |----  |----  | 
+|UrbanArchitext| Steerable 3D Urban Scene Generation with Layout Prior| preprint|[Paper](https://arxiv.org/pdf/2404.06780)|[Project](https://urbanarchitect.github.io/)| Layout| VSD + Scalable Hash Grid|
 OmniSDF: Scene Reconstruction using Omnidirectional Signed Distance Functions and Adaptive Binoctrees
 Neural Rendering based Urban Scene Reconstruction for Autonomous Driving
 
